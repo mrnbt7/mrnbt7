@@ -1,5 +1,5 @@
 # Architect • Innovator • Mentor
-More on [MrNBT.in](https://mrnbt.in/))
+More on [MrNBT.in](https://mrnbt.in/)
 <!--
 **mrnbt7/mrnbt7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
