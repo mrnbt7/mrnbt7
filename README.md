@@ -1,23 +1,14 @@
-More on [MrNBT.in](https://mrnbt.in/)
-
-<h1 align="center">Hi, I'm NBT. 👋</h1>
-
-<p align="center">
-  Architect • Innovator • Mentor
-</p>
-
-
----
 
 # 👋 Hi, I'm MrNBT  
+
+More on [MrNBT.in](https://mrnbt.in/)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Tech+Architect;AI+Strategist;Governance+Thinker;Future+CTO" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/followers/mrnbt7?label=Followers&style=social" />
 </p>
 
 ---
@@ -72,8 +63,8 @@ More on [MrNBT.in](https://mrnbt.in/)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrnbt7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrnbt7&theme=tokyonight" />
 </p>
 
 ---
@@ -103,13 +94,13 @@ More on [MrNBT.in](https://mrnbt.in/)
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/mrnbt/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_TWITTER">
+  <a href="https://x.com/mr_nbt7">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="YOUR_YOUTUBE">
+  <a href="https://www.youtube.com/@mrnbt">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
